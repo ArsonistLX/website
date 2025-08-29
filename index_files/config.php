@@ -9,7 +9,7 @@ window.siteConfig = {
             "\u4f60\u80fd\u7528\u7684\u4e0a",
             "\u5e94\u6709\u5c3d\u6709"
         ],
-        "domain": "zxe.lol",
+        "domain": "aao.netify.app",
         "positions": [
             {
                 "top": "25%",
@@ -170,9 +170,9 @@ window.siteConfig = {
             "fixed": true
         }
     ],
-    "comment_settings": {
+    <!-- "comment_settings": {
         "display_count": 2,
-        "domain": "zxe.lol",
+        "domain": "aao.netify.app",
         "repeat_display": 2,
         "repeat_copy": 2,
         "separator": "<br>",
@@ -182,13 +182,13 @@ window.siteConfig = {
             "after",
             "after",
             "after"
-        ],
+        ], -->
         "copy_as_text": false,
         "copy_separator": "\\n",
         "random_domains": [
-            "zxe.lol",
-            "zxy.lol",
-            "qwa.lol"
+            "aao.netlify.app",
+            "aao.netlify.app",
+            "aao.netlify.app"
         ],
         "random_domain_count": 1,
         "enable_random_domains": true,
@@ -213,8 +213,8 @@ window.siteConfig = {
 window.keywordPool = [{"text":"jm3","weight":30,"fixed":false,"color":"#ff0000"},{"text":"\u706b\u5f71\u540c\u4eba","weight":30,"fixed":false,"color":"#ff0000"},{"text":"\u56fd\u6f2b\u5973\u795e\u540c\u4eba","weight":20,"fixed":false},{"text":"\u706b\u5f71\u5bfb\u4eba\u542f\u4e8b","weight":20,"fixed":false},{"text":"\u706b\u5f71\u5fcd\u8005\u540c\u4eba","weight":20,"fixed":false},{"text":"\u706b\u5f71\u540c\u4eba\u6e38\u620f","weight":20,"fixed":false},{"text":"\u96f7\u5f71\u7684\u8001\u4f19\u8ba1","weight":32,"fixed":false,"color":"#ff0000"},{"text":"\u4e8c\u6b21\u5143\u706b\u5f71\u7f8e\u5973","weight":20,"fixed":false},{"text":"\u67ef\u5357\u706b\u5f71\u5fcd\u8005\u540c\u4eba","weight":30,"fixed":false},{"text":"\u706b\u5f71\u5fcd\u8005","weight":20,"fixed":false},{"text":"\u7eb2\u624b\u540c\u4eba\u52a8\u6f2b","weight":20,"fixed":false},{"text":"\u9e23\u4eba\u96f7\u5f71\u7eb2\u624b","weight":25,"fixed":false},{"text":"\u540c\u4eba\u52a8\u6f2b","weight":13,"fixed":false},{"text":"\u706b\u5f71\u540c\u4eba\u65b0\u4f5c","weight":20,"fixed":true,"color":"#ff0000"},{"text":"\u540c\u4eba","weight":20,"fixed":false,"color":"#ff0000"}];
 window.commentPool = [{"text":"\u90fd\u662f\u54e5\u4eec","weight":20,"fixed":false},{"text":"\u6211\u7ad9\u5728\u539f\u5730\u7b49\u4f60","weight":20,"fixed":false},{"text":"\u62b1\u6b49\u6211\u6765\u665a\u4e86","weight":20,"fixed":false},{"text":"\u62b1\u6b49\u6211\u8fdf\u5230\u4e86","weight":20,"fixed":false},{"text":"\u90fd\u662f\u4e00\u5bb6\u4eba","weight":20,"fixed":false},{"text":"\u6211\u7b49\u4f60\u56de\u5bb6","weight":20,"fixed":false},{"text":"\u89c1\u5916\u4e86\u5144\u5f1f","weight":20,"fixed":false},{"text":"\u62b1\u6b49!\u6765\u665a\u4e86","weight":20,"fixed":true}];
 window.keywordSettings = {"min_keywords":4,"max_keywords":6,"default_color":"#1798fc","line_break_after":3};
-window.commentSettings = {"display_count":2,"domain":"zxe.lol","repeat_display":2,"repeat_copy":2,"separator":"<br>","default_color":"#1798fc","domain_positions":["after","after","after","after"],"copy_as_text":false,"copy_separator":"\\n","random_domains":["zxe.lol","zxy.lol","qwa.lol"],"random_domain_count":1,"enable_random_domains":true,"random_domain_position":false};
-window.bannerSettings = {"enabled":true,"keywords":["\u4f60\u6ca1\u770b\u8fc7\u7684\u706b\u5f71","\u4f60\u6ca1\u770b\u8fc7\u7684\u96cf\u7530","\u4f60\u6ca1\u770b\u8fc7\u7684\u67ef\u5357","\u4f60\u6ca1\u73a9\u8fc7\u7684\u6e38\u620f","\u4f60\u80fd\u7528\u7684\u4e0a","\u5e94\u6709\u5c3d\u6709"],"domain":"zxe.lol","positions":[{"top":"25%","left":"13%"},{"top":"37%","left":"13%"},{"top":"49%","left":"13%"},{"top":"61%","left":"13%"},{"top":"73%","left":"13%"},{"top":"85%","left":"13%"}],"text_color":"#000000","text_size":"11px","font_weight":"bold"};
+window.commentSettings = {"display_count":2,"domain":"aao.netify.app","repeat_display":2,"repeat_copy":2,"separator":"<br>","default_color":"#1798fc","domain_positions":["after","after","after","after"],"copy_as_text":false,"copy_separator":"\\n","random_domains":["aao.netlify.app","aao.netlify.app","aao.netlify.app"],"random_domain_count":1,"enable_random_domains":true,"random_domain_position":false};
+window.bannerSettings = {"enabled":true,"keywords":["\u4f60\u6ca1\u770b\u8fc7\u7684\u706b\u5f71","\u4f60\u6ca1\u770b\u8fc7\u7684\u96cf\u7530","\u4f60\u6ca1\u770b\u8fc7\u7684\u67ef\u5357","\u4f60\u6ca1\u73a9\u8fc7\u7684\u6e38\u620f","\u4f60\u80fd\u7528\u7684\u4e0a","\u5e94\u6709\u5c3d\u6709"],"domain":"aao.netify.app","positions":[{"top":"25%","left":"13%"},{"top":"37%","left":"13%"},{"top":"49%","left":"13%"},{"top":"61%","left":"13%"},{"top":"73%","left":"13%"},{"top":"85%","left":"13%"}],"text_color":"#000000","text_size":"11px","font_weight":"bold"};
 window.emojiSettings = {"enabled":true,"pool":["[\u7cbe\u9009]","[\u8272]"],"positions":["before","before","before","after"],"random_position":false,"repeat_with_comment":true};
 // 生成单行评论词文本
 function generateCommentLine(commentText, domain, position, index) {
