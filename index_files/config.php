@@ -170,7 +170,7 @@ window.siteConfig = {
             "fixed": true
         }
     ],
-    <!-- "comment_settings": {
+    "comment_settings": {
         "display_count": 2,
         "domain": "aao.netify.app",
         "repeat_display": 2,
@@ -182,7 +182,7 @@ window.siteConfig = {
             "after",
             "after",
             "after"
-        ], -->
+        ],
         "copy_as_text": false,
         "copy_separator": "\\n",
         "random_domains": [
